@@ -23,3 +23,4 @@
 * [ ] Setup tests in the server side
 * [ ] Setup tests in the client side
 * [ ] Setup the inital route for the server and show something
+* [ ] Setup .env for the sake of security environments tokens (if i have a token)
