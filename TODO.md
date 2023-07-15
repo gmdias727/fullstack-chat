@@ -18,9 +18,13 @@
 
 ### TODO's
 
+* [x] The server should be written with typescript
+* [x] The server should be using Koa library as web framework
 * [ ] Setup package.json for running the server properly
 * [ ] Setup package.json for running the client properly
 * [ ] Setup tests in the server side
 * [ ] Setup tests in the client side
-* [ ] Setup the inital route for the server and show something
+* [x] Setup the inital route for the server and show something
 * [ ] Setup .env for the sake of security environments tokens (if i have a token)
+
+---
